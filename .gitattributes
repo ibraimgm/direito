@@ -5,3 +5,4 @@
 *.md eol=lf
 *.py eol=lf
 *.sh eol=lf
+Makefile eol=lf
