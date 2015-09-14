@@ -1,0 +1,7 @@
+*.pdf -diff
+*.jpg -diff
+*.png -diff
+
+*.md eol=lf
+*.py eol=lf
+*.sh eol=lf
