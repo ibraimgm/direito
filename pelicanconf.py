@@ -12,9 +12,14 @@ TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = 'pt'
 
+STATIC_PATHS = ['css']
+
 # do not show pages on menu by default
 # NOT HONORED - Need to put "status:hidden" in individual pages
 DISPLAY_PAGES_ON_MENU = False
+
+# override file
+CSS_OVERRIDE = '/css/override.css'
 
 # Theme is https://github.com/alexandrevicenzi/Flex
 THEME = './flex'
@@ -38,10 +43,10 @@ MENUITEMS = (('Resumos', '/pages/resumos.html'),
 LINKS = MENUITEMS
 
 # social networks
-SOCIAL = (('envelope-o','http://www.google.com'),
-          ('github','http://www.google.com'),
-          ('facebook','http://www.google.com'),
-          ('linkedin', 'http://www.google.com'))
+SOCIAL = (('envelope-o','mailto:ibraim.gm@gmail.com'),
+          ('github','https://github.com/ibraimgm'),
+          ('adb-facebook','https://www.facebook.com/ibraim.gm'),
+          ('adb-linkedin', 'http://br.linkedin.com/in/ibraimgm'))
 
 # robots.txt
 ROBOTS = 'index, follow'
