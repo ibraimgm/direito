@@ -12,7 +12,7 @@ TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = 'pt'
 
-STATIC_PATHS = ['css']
+STATIC_PATHS = ['css', 'js', 'files']
 
 # do not show pages on menu by default
 # NOT HONORED - Need to put "status:hidden" in individual pages
@@ -20,6 +20,9 @@ DISPLAY_PAGES_ON_MENU = False
 
 # override file
 CSS_OVERRIDE = '/css/override.css'
+
+# enable datatables
+USE_DATATABLES = True
 
 # Theme is https://github.com/alexandrevicenzi/Flex
 THEME = './flex'
