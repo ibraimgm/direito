@@ -5,4 +5,7 @@
 *.md eol=lf
 *.py eol=lf
 *.sh eol=lf
+*.js eol=lf
+*.json eol=lf
+*.lang eol=lf
 Makefile eol=lf
