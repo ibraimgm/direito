@@ -24,7 +24,7 @@ Como sempre, qualquer dúvida, sugestão ou correção,
 
 ### Resumos disponíveis
 
-Para fazer o download, clique no nome do resumo desejado.sd
+Para fazer o download, clique no nome do resumo desejado.
 
 <table id="table_id" class="compact hover order-column row-border stripe">
   <thead />
