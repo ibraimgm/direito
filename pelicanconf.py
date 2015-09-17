@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Rafael Ibraim'
 SITENAME = 'Ibraim e Direito'
 SITEURL = ''
+FAVICON = 'images/favicon.ico'
 
 PATH = 'content'
 
