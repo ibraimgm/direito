@@ -27,3 +27,8 @@ ul.social a:hover {
   -webkit-transform: none;
   transform: none;
 }
+
+/* estilos extras */
+a.go-up {
+  font-size: 0.9em;
+}
