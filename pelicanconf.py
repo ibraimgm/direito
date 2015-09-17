@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Rafael Ibraim'
-SITENAME = 'Resumos de Direito'
+SITENAME = 'Ibraim e Direito'
 SITEURL = ''
 
 PATH = 'content'
@@ -12,14 +12,14 @@ TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = 'pt'
 
-STATIC_PATHS = ['css', 'js', 'files']
+STATIC_PATHS = ['images', 'css', 'js', 'files']
 
 # do not show pages on menu by default
 # NOT HONORED - Need to put "status:hidden" in individual pages
 DISPLAY_PAGES_ON_MENU = False
 
 # override file
-CSS_OVERRIDE = '/css/override.css'
+CSS_OVERRIDE = 'css/override.css'
 
 # enable datatables
 USE_DATATABLES = True
@@ -30,11 +30,12 @@ THEME = './flex'
 # title, etc.
 SITETITLE = AUTHOR
 SITESUBTITLE = 'Acadêmico do Curso de Direito'
-#SITELOGO = 'Profile picture to show above author name (absolute url).'
+SITELOGO = 'images/portrait.png'
 #SITEDESCRIPTION = 'Site description to use in meta tags.'
 OG_LOCALE = 'pt_BR'
 COPYRIGHT_YEAR = 2015
 #CC_LICENSE = 'Creative Commons License to show on footer.'
+SITEPHRASE = 'Scientia non habet inimicum nisi ignorantem'
 
 # menus
 MAIN_MENU = True
@@ -43,7 +44,8 @@ MENUITEMS = (('Resumos', '/pages/resumos.html'),
              ('Sobre', '/pages/sobre.html'))
 
 # repeat the menu itens on the sidebar
-LINKS = MENUITEMS
+SIDEMENU = MENUITEMS
+LINKS = ()
 
 # social networks
 SOCIAL = (('envelope-o','mailto:ibraim.gm@gmail.com'),
