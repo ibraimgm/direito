@@ -46,12 +46,14 @@ SITEPHRASE = 'Scientia non habet inimicum nisi ignorantem'
 
 # menus
 MAIN_MENU = True
-MENUITEMS = (('Resumos', '/pages/resumos.html'),
-             ('Modelos', '/pages/modelos.html'),
-             ('Sobre', '/pages/sobre.html'))
+MENUITEMS = (('Artigos', '/archives.html'),
+             ('Categorias', '/categories.html'),
+             ('Tags', '/tags.html'))
 
 # repeat the menu itens on the sidebar
-SIDEMENU = MENUITEMS
+SIDEMENU = (('Resumos', '/pages/resumos.html'),
+            ('Modelos', '/pages/modelos.html'),
+            ('Sobre', '/pages/sobre.html'))
 LINKS = ()
 
 # social networks
