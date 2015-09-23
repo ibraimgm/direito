@@ -15,6 +15,9 @@ DEFAULT_LANG = 'pt'
 
 STATIC_PATHS = ['images', 'css', 'js', 'files']
 
+# get automatic metadata from blog posts
+FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})_(?P<slug>.*)'
+
 # enable toc generation
 MD_EXTENSIONS = (['toc'])
 
