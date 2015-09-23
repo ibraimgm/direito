@@ -15,6 +15,9 @@ DEFAULT_LANG = 'pt'
 
 STATIC_PATHS = ['images', 'css', 'js', 'files']
 
+# enable toc generation
+MD_EXTENSIONS = (['toc'])
+
 # do not show pages on menu by default
 # NOT HONORED - Need to put "status:hidden" in individual pages
 DISPLAY_PAGES_ON_MENU = False
