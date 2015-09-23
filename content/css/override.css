@@ -28,6 +28,11 @@ ul.social a:hover {
   transform: none;
 }
 
+/* botoes extras */
+ul.social a.sc-feed {
+  background-color: #fb6405
+}
+
 /* estilos extras */
 a.go-up {
   font-size: 0.9em;
