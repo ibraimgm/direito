@@ -1,0 +1,39 @@
+
+/* Adblock hacks */
+.fa-adb-facebook:before {
+  content: "\f09a";
+}
+
+ul.social a.sc-adb-facebook {
+  background-color: #3e5b98;
+}
+
+.fa-adb-linkedin:before {
+  content: "\f0e1";
+}
+
+ul.social a.sc-adb-linkedin {
+  background-color: #3371b7;
+}
+
+/* Different mail color */
+ul.social a.sc-envelope-o {
+  background-color: #d93e2d;
+}
+
+/* Do not "go up" on hover */
+ul.social a:hover {
+  z-index: 2;
+  -webkit-transform: none;
+  transform: none;
+}
+
+/* botoes extras */
+ul.social a.sc-feed {
+  background-color: #fb6405
+}
+
+/* estilos extras */
+a.go-up {
+  font-size: 0.9em;
+}
