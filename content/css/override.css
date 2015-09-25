@@ -37,3 +37,12 @@ ul.social a.sc-feed {
 a.go-up {
   font-size: 0.9em;
 }
+
+/* form de cadastro na lista */
+.btn-signup {
+  background-color: #e85c41 !important;
+}
+
+.btn-signup:hover {
+  background-color: #b5290e !important;
+}

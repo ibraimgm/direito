@@ -62,6 +62,9 @@ SOCIAL = (('envelope-o','mailto:ibraim.gm@gmail.com'),
           ('adb-facebook','https://www.facebook.com/ibraim.gm'),
           ('adb-linkedin', 'http://br.linkedin.com/in/ibraimgm'))
 
+# icons that open on the site itself
+FAKE_SOCIAL = (('feed', 'pages/newsletter.html'),)
+
 # robots.txt
 ROBOTS = 'index, follow'
 
