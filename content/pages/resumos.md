@@ -20,7 +20,8 @@ sejam perfeitamente compatíveis com a grade curricular do seu curso ou
 a informação já não seja a mais atual.
 
 Como sempre, qualquer dúvida, sugestão ou correção,
-[entre em contato](mailto:ibraim.gm@gmail.com).
+[entre em contato](mailto:ibraim.gm@gmail.com). Se quiser, você também
+pode se cadastrar para receber a [newsletter do blog]({filename}/pages/newsletter.md).
 
 ### Resumos disponíveis
 
