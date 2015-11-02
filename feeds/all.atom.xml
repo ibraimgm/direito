@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Ibraim e Direito</title><link href="http://ibraimgm.github.io/direito/" rel="alternate"></link><link href="http://ibraimgm.github.io/direito/feeds/all.atom.xml" rel="self"></link><id>http://ibraimgm.github.io/direito/</id><updated>2015-09-23T00:00:00-03:00</updated><entry><title>Bem vindo</title><link href="http://ibraimgm.github.io/direito/bem-vindo.html" rel="alternate"></link><updated>2015-09-23T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2015-09-23:direito/bem-vindo.html</id><summary type="html">&lt;p&gt;Seja bem vindo! Este é um blog sobre resumos, modelos, artigos, vídeos
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ibraim e Direito</title><link href="http://ibraimgm.github.io/direito/" rel="alternate"></link><link href="http://ibraimgm.github.io/direito/feeds/all.atom.xml" rel="self"></link><id>http://ibraimgm.github.io/direito/</id><updated>2015-11-02T00:00:00-02:00</updated><entry><title>Bem vindo</title><link href="http://ibraimgm.github.io/direito/bem-vindo.html" rel="alternate"></link><updated>2015-11-02T00:00:00-02:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2015-11-02:direito/bem-vindo.html</id><summary type="html">&lt;p&gt;Seja bem vindo! Este é um blog sobre resumos, modelos, artigos, vídeos
 e demais conteúdo jurídico que me parece interessante.&lt;/p&gt;
 &lt;p&gt;O conteúdo principal (e provavelmente o motivo de você ter vindo aqui)
 são os &lt;a href="pages/resumos.html"&gt;resumos das matérias&lt;/a&gt;, que
@@ -11,6 +11,10 @@ vários modelos já configurados e formatados, pronto para uso. Mesmo
 que nenhum deles seja exatamente o que você precisa, com certeza
 algum deles poderá servir como uma base sólida para você criar seu
 próprio modelo.&lt;/p&gt;
+&lt;p&gt;Também é interessante
+&lt;a href="http://ibraimgm.github.io/direito/pages/newsletter.html"&gt;fazer o cadastro na newsletter do blog&lt;/a&gt;,
+pois assim você será notificado via email sobre qualquer conteúdo
+adicionado ou atualizado.&lt;/p&gt;
 &lt;p&gt;Por fim, se quiser conhecer um pouco mais sobre a proposta deste
 &lt;em&gt;site&lt;/em&gt;, não hesite em dar uma olhada na seção
 &lt;a href="http://ibraimgm.github.io/direito/pages/sobre.html"&gt;sobre&lt;/a&gt;. E não se esqueça de

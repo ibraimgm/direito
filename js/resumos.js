@@ -1,3 +1,4 @@
+/* -*- coding:utf-8-unix -*- */
 
 $(document).ready( function () {
   $('#table_id').DataTable({
@@ -10,7 +11,7 @@ $(document).ready( function () {
       {"data":new Date('2015/04/26'), "versao":"1.1", "categoria":"Civil", "titulo":"Direito dos Contratos", "url":"../files/resumos/direito-contratos.pdf"},
       {"data":new Date('2015/06/20'), "versao":"1.1", "categoria":"Civil", "titulo":"Direito das Obrigações", "url":"../files/resumos/direito-obrigacoes.pdf"},
       {"data":new Date('2014/06/08'), "versao":"1.3", "categoria":"Civil", "titulo":"Negócios Jurídicos", "url":"../files/resumos/negocios-juridicos.pdf"},
-      {"data":new Date('2015/08/20'), "versao":"1.0", "categoria":"Civil", "titulo":"Responsabilidade Civil", "url":"../files/resumos/resp-civil.pdf"},
+      {"data":new Date('2015/09/26'), "versao":"1.1", "categoria":"Civil", "titulo":"Responsabilidade Civil", "url":"../files/resumos/resp-civil.pdf"},
 
       {"data":new Date('2013/09/15'), "versao":"N/A", "categoria":"Outros", "titulo":"Direito Internacional Público", "url":"../files/resumos/direito-internacional.pdf"},
       {"data":new Date('2013/09/15'), "versao":"N.A", "categoria":"Outros", "titulo":"Introdução ao Direito", "url":"../files/resumos/introducao-direito.pdf"},
@@ -20,9 +21,13 @@ $(document).ready( function () {
       {"data":new Date('2015/06/13'), "versao":"1.1", "categoria":"Penal", "titulo":"Crimes Especiais no Código Penal", "url":"../files/resumos/penal-crimes-especiais.pdf"},
       {"data":new Date('2014/11/10'), "versao":"1.0", "categoria":"Penal", "titulo":"Teoria da Pena", "url":"../files/resumos/teoria-pena.pdf"},
 
+      {"data":new Date('2015/09/20'), "versao":"1.0", "categoria":"Trabalho", "titulo":"Introdução ao Direito do Trabalho", "url":"../files/resumos/intr-direito-trabalho.pdf"},
+      {"data":new Date('2015/11/02'), "versao":"1.1", "categoria":"Trabalho", "titulo":"Relações de Trabalho", "url":"../files/resumos/relacoes-trabalho.pdf"},
+
       {"data":new Date('2014/11/14'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Civil I", "url":"../files/resumos/processo-civil-1.pdf"},
       {"data":new Date('2015/06/02'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Civil II", "url":"../files/resumos/processo-civil-2.pdf"},
       {"data":new Date('2014/08/11'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Penal I", "url":"../files/resumos/processo-penal-1.pdf"},
+      {"data":new Date('2015/09/20'), "versao":"1.0", "categoria":"Processo", "titulo":"Processo Penal II", "url":"../files/resumos/processo-penal-2.pdf"},
       {"data":new Date('2014/06/15'), "versao":"1.4", "categoria":"Processo", "titulo":"Teoria Geral do Processo", "url":"../files/resumos/tgp.pdf"}
     ],
     /* config. colunas */
