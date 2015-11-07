@@ -21,7 +21,7 @@ $(document).ready( function () {
       {"data":new Date('2015/06/13'), "versao":"1.1", "categoria":"Penal", "titulo":"Crimes Especiais no Código Penal", "url":"../files/resumos/penal-crimes-especiais.pdf"},
       {"data":new Date('2014/11/10'), "versao":"1.0", "categoria":"Penal", "titulo":"Teoria da Pena", "url":"../files/resumos/teoria-pena.pdf"},
 
-      {"data":new Date('2015/09/20'), "versao":"1.0", "categoria":"Trabalho", "titulo":"Introdução ao Direito do Trabalho", "url":"../files/resumos/intr-direito-trabalho.pdf"},
+      {"data":new Date('2015/11/07'), "versao":"1.1", "categoria":"Trabalho", "titulo":"Introdução ao Direito do Trabalho", "url":"../files/resumos/intr-direito-trabalho.pdf"},
       {"data":new Date('2015/11/02'), "versao":"1.1", "categoria":"Trabalho", "titulo":"Relações de Trabalho", "url":"../files/resumos/relacoes-trabalho.pdf"},
 
       {"data":new Date('2014/11/14'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Civil I", "url":"../files/resumos/processo-civil-1.pdf"},

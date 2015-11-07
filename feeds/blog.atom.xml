@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Ibraim e Direito</title><link href="http://ibraimgm.github.io/direito/" rel="alternate"></link><link href="http://ibraimgm.github.io/direito/feeds/blog.atom.xml" rel="self"></link><id>http://ibraimgm.github.io/direito/</id><updated>2015-11-02T00:00:00-02:00</updated><entry><title>Bem vindo</title><link href="http://ibraimgm.github.io/direito/bem-vindo.html" rel="alternate"></link><updated>2015-11-02T00:00:00-02:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2015-11-02:direito/bem-vindo.html</id><summary type="html">&lt;p&gt;Seja bem vindo! Este é um blog sobre resumos, modelos, artigos, vídeos
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ibraim e Direito</title><link href="http://ibraimgm.github.io/direito/" rel="alternate"></link><link href="http://ibraimgm.github.io/direito/feeds/blog.atom.xml" rel="self"></link><id>http://ibraimgm.github.io/direito/</id><updated>2015-11-07T00:00:00-02:00</updated><entry><title>Resumo de Introdução ao Direito do Trabalho - Atualizado</title><link href="http://ibraimgm.github.io/direito/intr_direito_trabalho2.html" rel="alternate"></link><updated>2015-11-07T00:00:00-02:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2015-11-07:direito/intr_direito_trabalho2.html</id><summary type="html">&lt;p&gt;Foi atualizado o resumo de &lt;strong&gt;Introdução ao Direito do Trabalho&lt;/strong&gt;. Você
+pode conferir e baixar o arquivo na
+&lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;. Nãose esqueça também de
+&lt;a href="http://ibraimgm.github.io/direito/pages/newsletter.html"&gt;fazer o cadastro na newsletter do blog&lt;/a&gt;
+para se manter atualizado!&lt;/p&gt;
+&lt;p&gt;Em relação à versão anterior, além de pequenas correções pontuais, foi
+adicionada toda uma seção sobre jrnada de trabalho e períodosde
+descanso. Também foram adicionados tópicos sobre greve e seguridade
+social, além de breves anotações sobre a responsabilidade penal e a
+prescrição dos direitos do trabalhador.&lt;/p&gt;
+&lt;p&gt;Desejo a todos bons estudos e boa prova!&lt;/p&gt;
+&lt;!-- Local Variables: --&gt;
+
+&lt;!-- coding: utf-8-unix --&gt;
+
+&lt;!-- End: --&gt;</summary><category term="blog"></category><category term="resumos"></category></entry><entry><title>Bem vindo</title><link href="http://ibraimgm.github.io/direito/bem-vindo.html" rel="alternate"></link><updated>2015-11-02T00:00:00-02:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2015-11-02:direito/bem-vindo.html</id><summary type="html">&lt;p&gt;Seja bem vindo! Este é um blog sobre resumos, modelos, artigos, vídeos
 e demais conteúdo jurídico que me parece interessante.&lt;/p&gt;
 &lt;p&gt;O conteúdo principal (e provavelmente o motivo de você ter vindo aqui)
 são os &lt;a href="pages/resumos.html"&gt;resumos das matérias&lt;/a&gt;, que
