@@ -53,6 +53,7 @@ MENUITEMS = (('Artigos', 'archives.html'),
 # repeat the menu itens on the sidebar
 SIDEMENU = (('Resumos', 'pages/resumos.html'),
             ('Modelos', 'pages/modelos.html'),
+            ('Cadastre-se', 'pages/newsletter.html'),
             ('Sobre', 'pages/sobre.html'))
 LINKS = ()
 
