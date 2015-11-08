@@ -85,7 +85,7 @@ min: $.validator.format("Por favor, introduza um valor maior ou igual a {0}.")
 ### Atualizações por feeds RSS
 
 Para receber atualizações via RSS,
-[clique neste link](../feeds/all.atom.xml). Se você tiver um leitor de
+[clique neste link](../feeds/all.rss.xml). Se você tiver um leitor de
 feeds RSS disponível, ele automaticamente será aberto e te deixará
 configurar as opções de leitura.
 
