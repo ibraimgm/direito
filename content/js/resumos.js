@@ -27,7 +27,7 @@ $(document).ready( function () {
       {"data":new Date('2014/11/14'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Civil I", "url":"../files/resumos/processo-civil-1.pdf"},
       {"data":new Date('2015/06/02'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Civil II", "url":"../files/resumos/processo-civil-2.pdf"},
       {"data":new Date('2014/08/11'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Penal I", "url":"../files/resumos/processo-penal-1.pdf"},
-      {"data":new Date('2015/09/20'), "versao":"1.0", "categoria":"Processo", "titulo":"Processo Penal II", "url":"../files/resumos/processo-penal-2.pdf"},
+      {"data":new Date('2015/11/15'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Penal II", "url":"../files/resumos/processo-penal-2.pdf"},
       {"data":new Date('2014/06/15'), "versao":"1.4", "categoria":"Processo", "titulo":"Teoria Geral do Processo", "url":"../files/resumos/tgp.pdf"}
     ],
     /* config. colunas */
