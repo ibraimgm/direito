@@ -13,6 +13,8 @@ $(document).ready( function () {
       {"data":new Date('2014/06/08'), "versao":"1.3", "categoria":"Civil", "titulo":"Negócios Jurídicos", "url":"../files/resumos/negocios-juridicos.pdf"},
       {"data":new Date('2015/09/26'), "versao":"1.1", "categoria":"Civil", "titulo":"Responsabilidade Civil", "url":"../files/resumos/resp-civil.pdf"},
 
+      {"data":new Date('2016/04/10'), "versao":"1.0", "categoria":"Empresarial", "titulo":"Direito Empresarial I", "url":"../files/resumos/dir-empresarial-1.pdf"},
+
       {"data":new Date('2013/09/15'), "versao":"N/A", "categoria":"Outros", "titulo":"Direito Internacional Público", "url":"../files/resumos/direito-internacional.pdf"},
       {"data":new Date('2013/09/15'), "versao":"N.A", "categoria":"Outros", "titulo":"Introdução ao Direito", "url":"../files/resumos/introducao-direito.pdf"},
 
