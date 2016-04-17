@@ -31,6 +31,7 @@ $(document).ready( function () {
       {"data":new Date('2014/08/11'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Penal I", "url":"../files/resumos/processo-penal-1.pdf"},
       {"data":new Date('2015/11/15'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Penal II", "url":"../files/resumos/processo-penal-2.pdf"},
       {"data":new Date('2016/04/09'), "versao":"1.0", "categoria":"Processo", "titulo":"Processo Penal III", "url":"../files/resumos/processo-penal-3.pdf"},
+      {"data":new Date('2016/04/17'), "versao":"1.0", "categoria":"Processo", "titulo":"Processo do Trabalho I", "url":"../files/resumos/processo-trabalho-1.pdf"},
       {"data":new Date('2014/06/15'), "versao":"1.4", "categoria":"Processo", "titulo":"Teoria Geral do Processo", "url":"../files/resumos/tgp.pdf"}
     ],
     /* config. colunas */
