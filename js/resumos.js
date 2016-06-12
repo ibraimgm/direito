@@ -13,7 +13,7 @@ $(document).ready( function () {
       {"data":new Date('2014/06/08'), "versao":"1.3", "categoria":"Civil", "titulo":"Negócios Jurídicos", "url":"../files/resumos/negocios-juridicos.pdf"},
       {"data":new Date('2015/09/26'), "versao":"1.1", "categoria":"Civil", "titulo":"Responsabilidade Civil", "url":"../files/resumos/resp-civil.pdf"},
 
-      {"data":new Date('2016/04/10'), "versao":"1.0", "categoria":"Empresarial", "titulo":"Direito Empresarial I", "url":"../files/resumos/dir-empresarial-1.pdf"},
+      {"data":new Date('2016/06/12'), "versao":"1.1", "categoria":"Empresarial", "titulo":"Direito Empresarial I", "url":"../files/resumos/dir-empresarial-1.pdf"},
 
       {"data":new Date('2013/09/15'), "versao":"N/A", "categoria":"Outros", "titulo":"Direito Internacional Público", "url":"../files/resumos/direito-internacional.pdf"},
       {"data":new Date('2013/09/15'), "versao":"N.A", "categoria":"Outros", "titulo":"Introdução ao Direito", "url":"../files/resumos/introducao-direito.pdf"},
@@ -31,7 +31,7 @@ $(document).ready( function () {
       {"data":new Date('2016/06/05'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Civil III", "url":"../files/resumos/processo-civil-3.pdf"},
       {"data":new Date('2014/08/11'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Penal I", "url":"../files/resumos/processo-penal-1.pdf"},
       {"data":new Date('2015/11/15'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Penal II", "url":"../files/resumos/processo-penal-2.pdf"},
-      {"data":new Date('2016/04/09'), "versao":"1.0", "categoria":"Processo", "titulo":"Processo Penal III", "url":"../files/resumos/processo-penal-3.pdf"},
+      {"data":new Date('2016/06/12'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Penal III", "url":"../files/resumos/processo-penal-3.pdf"},
       {"data":new Date('2016/04/17'), "versao":"1.0", "categoria":"Processo", "titulo":"Processo do Trabalho I", "url":"../files/resumos/processo-trabalho-1.pdf"},
       {"data":new Date('2014/06/15'), "versao":"1.4", "categoria":"Processo", "titulo":"Teoria Geral do Processo", "url":"../files/resumos/tgp.pdf"}
     ],
