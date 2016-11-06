@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Ibraim e Direito</title><link href="http://ibraimgm.github.io/direito/" rel="alternate"></link><link href="http://ibraimgm.github.io/direito/feeds/all.atom.xml" rel="self"></link><id>http://ibraimgm.github.io/direito/</id><updated>2016-10-08T00:00:00-03:00</updated><entry><title>Resumo de Execução Civil</title><link href="http://ibraimgm.github.io/direito/exec_civil.html" rel="alternate"></link><updated>2016-10-08T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-10-08:direito/exec_civil.html</id><summary type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Execução Civil&lt;/strong&gt;.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ibraim e Direito</title><link href="http://ibraimgm.github.io/direito/" rel="alternate"></link><link href="http://ibraimgm.github.io/direito/feeds/all.atom.xml" rel="self"></link><id>http://ibraimgm.github.io/direito/</id><updated>2016-11-06T00:00:00-02:00</updated><entry><title>Resumos de Administrativo e Execução - Atualizados</title><link href="http://ibraimgm.github.io/direito/resumo_adm_exec_atualizado.html" rel="alternate"></link><updated>2016-11-06T00:00:00-02:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-11-06:direito/resumo_adm_exec_atualizado.html</id><summary type="html">&lt;p&gt;Já está disponível as novsa versões dos resumos de &lt;strong&gt;Execução civil&lt;/strong&gt; e de
+&lt;strong&gt;Direito Administrativo I&lt;/strong&gt;.
+Veja a &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt; para fazer o download.&lt;/p&gt;
+&lt;p&gt;No caso de &lt;strong&gt;Execução civil&lt;/strong&gt;, foram adicionados os artigos relevantes
+discutidos em aula. A maior parte deles é bem óbvia, então foram
+trazidos apenas os que merecem mais comentários.
+Em muitos casos, a explicação foi só a transcrição do dispositivo
+legal, mas com notas e grifo para chamar a ateno ao que é mais
+importante.&lt;/p&gt;
+&lt;p&gt;Já para &lt;strong&gt;Direito Administrativo I&lt;/strong&gt;, foram incluídas
+as matérias &lt;em&gt;Atos administrativos&lt;/em&gt; e &lt;em&gt;Licitação&lt;/em&gt;. Novamente, os
+trechos relevantes foram destacados e alguns diagramas extras foram
+criados para facilitar a compreensão.&lt;/p&gt;
+&lt;p&gt;Bons estudos a todos!&lt;/p&gt;
+&lt;!-- Local Variables: --&gt;
+
+&lt;!-- coding: utf-8-unix --&gt;
+
+&lt;!-- End: --&gt;</summary><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Execução Civil</title><link href="http://ibraimgm.github.io/direito/exec_civil.html" rel="alternate"></link><updated>2016-10-08T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-10-08:direito/exec_civil.html</id><summary type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Execução Civil&lt;/strong&gt;.
 O arquivo, como sempre, está na &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Para uma primeira prova, a matéria está até bem pesada. Em alguns trechos, não
 deu pra escapar de comentar inciso por inciso, sempre de acordo com os apontamentos
