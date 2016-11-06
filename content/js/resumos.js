@@ -26,12 +26,12 @@ $(document).ready( function () {
       {"data":new Date('2015/11/07'), "versao":"1.1", "categoria":"Trabalho", "titulo":"Introdução ao Direito do Trabalho", "url":"../files/resumos/intr-direito-trabalho.pdf"},
       {"data":new Date('2015/11/02'), "versao":"1.1", "categoria":"Trabalho", "titulo":"Relações de Trabalho", "url":"../files/resumos/relacoes-trabalho.pdf"},
 
-      {"data":new Date('2016/10/01'), "versao":"1.0", "categoria":"Administrativo", "titulo":"Introdução ao Direito Administrativo", "url":"../files/resumos/introducao-dir-adm.pdf"},
+      {"data":new Date('2016/11/06'), "versao":"1.1", "categoria":"Administrativo", "titulo":"Introdução ao Direito Administrativo", "url":"../files/resumos/introducao-dir-adm.pdf"},
 
       {"data":new Date('2014/11/14'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Civil I", "url":"../files/resumos/processo-civil-1.pdf"},
       {"data":new Date('2015/06/02'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Civil II", "url":"../files/resumos/processo-civil-2.pdf"},
       {"data":new Date('2016/06/05'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Civil III", "url":"../files/resumos/processo-civil-3.pdf"},
-      {"data":new Date('2016/10/08'), "versao":"1.0", "categoria":"Processo", "titulo":"Execução Civil", "url":"../files/resumos/execucao-civil.pdf"},
+      {"data":new Date('2016/11/06'), "versao":"1.1", "categoria":"Processo", "titulo":"Execução Civil", "url":"../files/resumos/execucao-civil.pdf"},
       {"data":new Date('2014/08/11'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Penal I", "url":"../files/resumos/processo-penal-1.pdf"},
       {"data":new Date('2015/11/15'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Penal II", "url":"../files/resumos/processo-penal-2.pdf"},
       {"data":new Date('2016/06/12'), "versao":"1.1", "categoria":"Processo", "titulo":"Processo Penal III", "url":"../files/resumos/processo-penal-3.pdf"},
