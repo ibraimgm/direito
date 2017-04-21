@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Ibraim e Direito</title><link href="http://ibraimgm.github.io/direito/" rel="alternate"></link><link href="http://ibraimgm.github.io/direito/feeds/all.atom.xml" rel="self"></link><id>http://ibraimgm.github.io/direito/</id><updated>2016-11-06T00:00:00-02:00</updated><entry><title>Resumos de Administrativo e Execução - Atualizados</title><link href="http://ibraimgm.github.io/direito/resumo_adm_exec_atualizado.html" rel="alternate"></link><updated>2016-11-06T00:00:00-02:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-11-06:direito/resumo_adm_exec_atualizado.html</id><summary type="html">&lt;p&gt;Já está disponível as novsa versões dos resumos de &lt;strong&gt;Execução civil&lt;/strong&gt; e de
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ibraim e Direito</title><link href="http://ibraimgm.github.io/direito/" rel="alternate"></link><link href="http://ibraimgm.github.io/direito/feeds/all.atom.xml" rel="self"></link><id>http://ibraimgm.github.io/direito/</id><updated>2017-04-21T00:00:00-03:00</updated><entry><title>Resumos de Tutelas de Urgência e Recursos no Processo do Trabalho</title><link href="http://ibraimgm.github.io/direito/resumo_proc_trab_tutelas.html" rel="alternate"></link><published>2017-04-21T00:00:00-03:00</published><updated>2017-04-21T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2017-04-21:/direito/resumo_proc_trab_tutelas.html</id><summary type="html">&lt;p&gt;Já estão disponíveis os resumos de &lt;strong&gt;Tutelas de Urgência e Evidência&lt;/strong&gt; e de
+&lt;strong&gt;Processo do Trabalho II (Recursos)&lt;/strong&gt;.
+Veja a &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt; para fazer o download.&lt;/p&gt;
+&lt;p&gt;No caso de &lt;strong&gt;Tutelas de Urgência e Evidência&lt;/strong&gt;, o resumo é relativamente compacto.
+A matéria em sí não é extensa, mas por apresentar …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Já estão disponíveis os resumos de &lt;strong&gt;Tutelas de Urgência e Evidência&lt;/strong&gt; e de
+&lt;strong&gt;Processo do Trabalho II (Recursos)&lt;/strong&gt;.
+Veja a &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt; para fazer o download.&lt;/p&gt;
+&lt;p&gt;No caso de &lt;strong&gt;Tutelas de Urgência e Evidência&lt;/strong&gt;, o resumo é relativamente compacto.
+A matéria em sí não é extensa, mas por apresentar novos institutos e formas de
+tutela, nos convida à reflexão. Como "extra", adicionei um apêndice no final com
+alguns dos pontos que foram questionados e discutidos em sala de aula.&lt;/p&gt;
+&lt;p&gt;Em &lt;strong&gt;Processo do Trabalho II&lt;/strong&gt;, o conteúdo é bem mais extenso. Adicionei uma
+breve revisão conceitual antes de falar de cada recurso. Os recursos são
+individualmente de explicação mais simples, pois a verdadeira complexidade aparece
+na grande qualtidade de súmulas e OJs, que foram recolhidas e  adicionadas como
+apêndices no finaldo resumo.&lt;/p&gt;
+&lt;p&gt;Bons estudos a todos!&lt;/p&gt;
+&lt;!-- Local Variables: --&gt;
+
+&lt;!-- coding: utf-8-unix --&gt;
+
+&lt;!-- End: --&gt;</content><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumos de Administrativo e Execução - Atualizados</title><link href="http://ibraimgm.github.io/direito/resumo_adm_exec_atualizado.html" rel="alternate"></link><published>2016-11-06T00:00:00-02:00</published><updated>2016-11-06T00:00:00-02:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-11-06:/direito/resumo_adm_exec_atualizado.html</id><summary type="html">&lt;p&gt;Já está disponível as novsa versões dos resumos de &lt;strong&gt;Execução civil&lt;/strong&gt; e de
+&lt;strong&gt;Direito Administrativo I&lt;/strong&gt;.
+Veja a &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt; para fazer o download.&lt;/p&gt;
+&lt;p&gt;No caso de &lt;strong&gt;Execução civil&lt;/strong&gt;, foram adicionados os artigos relevantes
+discutidos em aula. A maior parte deles é bem óbvia, então foram
+trazidos apenas os …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Já está disponível as novsa versões dos resumos de &lt;strong&gt;Execução civil&lt;/strong&gt; e de
 &lt;strong&gt;Direito Administrativo I&lt;/strong&gt;.
 Veja a &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt; para fazer o download.&lt;/p&gt;
 &lt;p&gt;No caso de &lt;strong&gt;Execução civil&lt;/strong&gt;, foram adicionados os artigos relevantes
@@ -17,7 +43,11 @@ criados para facilitar a compreensão.&lt;/p&gt;
 
 &lt;!-- coding: utf-8-unix --&gt;
 
-&lt;!-- End: --&gt;</summary><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Execução Civil</title><link href="http://ibraimgm.github.io/direito/exec_civil.html" rel="alternate"></link><updated>2016-10-08T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-10-08:direito/exec_civil.html</id><summary type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Execução Civil&lt;/strong&gt;.
+&lt;!-- End: --&gt;</content><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Execução Civil</title><link href="http://ibraimgm.github.io/direito/exec_civil.html" rel="alternate"></link><published>2016-10-08T00:00:00-03:00</published><updated>2016-10-08T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-10-08:/direito/exec_civil.html</id><summary type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Execução Civil&lt;/strong&gt;.
+O arquivo, como sempre, está na &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Para uma primeira prova, a matéria está até bem pesada. Em alguns trechos, não
+deu pra escapar de comentar inciso por inciso, sempre de acordo com os apontamentos
+em sala …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Execução Civil&lt;/strong&gt;.
 O arquivo, como sempre, está na &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Para uma primeira prova, a matéria está até bem pesada. Em alguns trechos, não
 deu pra escapar de comentar inciso por inciso, sempre de acordo com os apontamentos
@@ -28,7 +58,11 @@ em sala de aula.&lt;/p&gt;
 
 &lt;!-- coding: utf-8-unix --&gt;
 
-&lt;!-- End: --&gt;</summary><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Direito Administrativo I</title><link href="http://ibraimgm.github.io/direito/dir_adm_1.html" rel="alternate"></link><updated>2016-10-01T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-10-01:direito/dir_adm_1.html</id><summary type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Direito Administrativo I&lt;/strong&gt;.
+&lt;!-- End: --&gt;</content><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Direito Administrativo I</title><link href="http://ibraimgm.github.io/direito/dir_adm_1.html" rel="alternate"></link><published>2016-10-01T00:00:00-03:00</published><updated>2016-10-01T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-10-01:/direito/dir_adm_1.html</id><summary type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Direito Administrativo I&lt;/strong&gt;.
+O arquivo, como sempre, está na &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O grande destaque são os esquemas gráficos simplificados, explicando a distinção
+entre administração direta e indireta, bem como o nascimento da personalidade
+jurídica dos entes criados pelo poder público …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Direito Administrativo I&lt;/strong&gt;.
 O arquivo, como sempre, está na &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;O grande destaque são os esquemas gráficos simplificados, explicando a distinção
 entre administração direta e indireta, bem como o nascimento da personalidade
@@ -38,7 +72,11 @@ jurídica dos entes criados pelo poder público.&lt;/p&gt;
 
 &lt;!-- coding: utf-8-unix --&gt;
 
-&lt;!-- End: --&gt;</summary><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumos atualizados e um aviso importante</title><link href="http://ibraimgm.github.io/direito/ppenal3_empre1_atualizados.html" rel="alternate"></link><updated>2016-06-12T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-06-12:direito/ppenal3_empre1_atualizados.html</id><summary type="html">&lt;p&gt;Está disponível o resumo de &lt;strong&gt;Processo Penal III&lt;/strong&gt; e de &lt;strong&gt;Direito Empresarial I&lt;/strong&gt;.
+&lt;!-- End: --&gt;</content><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumos atualizados e um aviso importante</title><link href="http://ibraimgm.github.io/direito/ppenal3_empre1_atualizados.html" rel="alternate"></link><published>2016-06-12T00:00:00-03:00</published><updated>2016-06-12T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-06-12:/direito/ppenal3_empre1_atualizados.html</id><summary type="html">&lt;p&gt;Está disponível o resumo de &lt;strong&gt;Processo Penal III&lt;/strong&gt; e de &lt;strong&gt;Direito Empresarial I&lt;/strong&gt;.
+Veja a &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt; para fazer o download dos arquivos.&lt;/p&gt;
+&lt;p&gt;Infelizmente, vários compromissos (e contratempos!) atrapalharam muito a produção
+dos resumos neste final de semana. É impossível cumprir com o compromisso de atualizar
+os três resumos …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Está disponível o resumo de &lt;strong&gt;Processo Penal III&lt;/strong&gt; e de &lt;strong&gt;Direito Empresarial I&lt;/strong&gt;.
 Veja a &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt; para fazer o download dos arquivos.&lt;/p&gt;
 &lt;p&gt;Infelizmente, vários compromissos (e contratempos!) atrapalharam muito a produção
 dos resumos neste final de semana. É impossível cumprir com o compromisso de atualizar
@@ -71,7 +109,12 @@ e em sequência...&lt;/p&gt;
 
 &lt;!-- coding: utf-8-unix --&gt;
 
-&lt;!-- End: --&gt;</summary><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Processo Civil III - Atualizado</title><link href="http://ibraimgm.github.io/direito/proc_civil_3_atualizado.html" rel="alternate"></link><updated>2016-06-05T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-06-05:direito/proc_civil_3_atualizado.html</id><summary type="html">&lt;p&gt;Já está disponível a nova versão do resumo de &lt;strong&gt;Processo Civil III&lt;/strong&gt;.
+&lt;!-- End: --&gt;</content><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Processo Civil III - Atualizado</title><link href="http://ibraimgm.github.io/direito/proc_civil_3_atualizado.html" rel="alternate"></link><published>2016-06-05T00:00:00-03:00</published><updated>2016-06-05T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-06-05:/direito/proc_civil_3_atualizado.html</id><summary type="html">&lt;p&gt;Já está disponível a nova versão do resumo de &lt;strong&gt;Processo Civil III&lt;/strong&gt;.
+Veja a &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt; para fazer o download.&lt;/p&gt;
+&lt;p&gt;Desta vez, alguns dos tópicos anteriores tiveram pequenas correções,
+mas o "grosso" do trabalho foi a inclusão dos recursos em espécie
+vistos no andamento do semestre.
+É um conteúdo …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Já está disponível a nova versão do resumo de &lt;strong&gt;Processo Civil III&lt;/strong&gt;.
 Veja a &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt; para fazer o download.&lt;/p&gt;
 &lt;p&gt;Desta vez, alguns dos tópicos anteriores tiveram pequenas correções,
 mas o "grosso" do trabalho foi a inclusão dos recursos em espécie
@@ -83,7 +126,11 @@ artigo no CPC!&lt;/p&gt;
 
 &lt;!-- coding: utf-8-unix --&gt;
 
-&lt;!-- End: --&gt;</summary><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Processo Civil III</title><link href="http://ibraimgm.github.io/direito/proc_civil_3.html" rel="alternate"></link><updated>2016-04-22T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-04-22:direito/proc_civil_3.html</id><summary type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Processo Civil III&lt;/strong&gt;.
+&lt;!-- End: --&gt;</content><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Processo Civil III</title><link href="http://ibraimgm.github.io/direito/proc_civil_3.html" rel="alternate"></link><published>2016-04-22T00:00:00-03:00</published><updated>2016-04-22T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-04-22:/direito/proc_civil_3.html</id><summary type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Processo Civil III&lt;/strong&gt;.
+O arquivo, como sempre, está na &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Tentei ser o mais abrangente possível na enorme quantidade de tópicos
+que foram trazidos em aula. Mesmo assim, é essencial uma leitura atenta
+e a leitura em conjunto com …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Processo Civil III&lt;/strong&gt;.
 O arquivo, como sempre, está na &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Tentei ser o mais abrangente possível na enorme quantidade de tópicos
 que foram trazidos em aula. Mesmo assim, é essencial uma leitura atenta
@@ -93,7 +140,11 @@ e a leitura em conjunto com o CPC/15!&lt;/p&gt;
 
 &lt;!-- coding: utf-8-unix --&gt;
 
-&lt;!-- End: --&gt;</summary><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Processo do Trabalho I</title><link href="http://ibraimgm.github.io/direito/proc_trabalho_1.html" rel="alternate"></link><updated>2016-04-17T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-04-17:direito/proc_trabalho_1.html</id><summary type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Processo do Trabalho I&lt;/strong&gt;.
+&lt;!-- End: --&gt;</content><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Processo do Trabalho I</title><link href="http://ibraimgm.github.io/direito/proc_trabalho_1.html" rel="alternate"></link><published>2016-04-17T00:00:00-03:00</published><updated>2016-04-17T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-04-17:/direito/proc_trabalho_1.html</id><summary type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Processo do Trabalho I&lt;/strong&gt;.
+O arquivo, como sempre, está na &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;É um resumo bem extenso (considerando que esta é apenas a primeira versão!) que
+dá uma geral nas principais diferenaçs e institutos do direito processual trabalhista
+em relação …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Processo do Trabalho I&lt;/strong&gt;.
 O arquivo, como sempre, está na &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;É um resumo bem extenso (considerando que esta é apenas a primeira versão!) que
 dá uma geral nas principais diferenaçs e institutos do direito processual trabalhista
@@ -105,7 +156,7 @@ vista e comentada em sala de aula.&lt;/p&gt;
 
 &lt;!-- coding: utf-8-unix --&gt;
 
-&lt;!-- End: --&gt;</summary><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Direito Empresarial I</title><link href="http://ibraimgm.github.io/direito/dir_empresarial1.html" rel="alternate"></link><updated>2016-04-10T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-04-10:direito/dir_empresarial1.html</id><summary type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Direito Empresarial I&lt;/strong&gt;.
+&lt;!-- End: --&gt;</content><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Direito Empresarial I</title><link href="http://ibraimgm.github.io/direito/dir_empresarial1.html" rel="alternate"></link><published>2016-04-10T00:00:00-03:00</published><updated>2016-04-10T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-04-10:/direito/dir_empresarial1.html</id><summary type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Direito Empresarial I&lt;/strong&gt;.
 O arquivo, como sempre, está na &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Este é provavelmente o resumo mais enxuto de todos.&lt;/p&gt;
 &lt;p&gt;Bons estudos a todos!&lt;/p&gt;
@@ -113,7 +164,19 @@ O arquivo, como sempre, está na &lt;a href="pages/resumos.html"&gt;seção de r
 
 &lt;!-- coding: utf-8-unix --&gt;
 
-&lt;!-- End: --&gt;</summary><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Processo Penal III</title><link href="http://ibraimgm.github.io/direito/proc_penal3.html" rel="alternate"></link><updated>2016-04-09T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-04-09:direito/proc_penal3.html</id><summary type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Processo Penal III&lt;/strong&gt;.
+&lt;!-- End: --&gt;</summary><content type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Direito Empresarial I&lt;/strong&gt;.
+O arquivo, como sempre, está na &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Este é provavelmente o resumo mais enxuto de todos.&lt;/p&gt;
+&lt;p&gt;Bons estudos a todos!&lt;/p&gt;
+&lt;!-- Local Variables: --&gt;
+
+&lt;!-- coding: utf-8-unix --&gt;
+
+&lt;!-- End: --&gt;</content><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Processo Penal III</title><link href="http://ibraimgm.github.io/direito/proc_penal3.html" rel="alternate"></link><published>2016-04-09T00:00:00-03:00</published><updated>2016-04-09T00:00:00-03:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2016-04-09:/direito/proc_penal3.html</id><summary type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Processo Penal III&lt;/strong&gt;.
+O arquivo, como sempre, está na &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Este resumo está bem &lt;em&gt;"light"&lt;/em&gt; pelo tamanho da matéria, mas mesmo assim
+faz uma breve revisão do conteúdo mínimo que precisa ser entendido antes
+de começar a matéria em …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Já está disponível a primera versão do resumo de &lt;strong&gt;Processo Penal III&lt;/strong&gt;.
 O arquivo, como sempre, está na &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Este resumo está bem &lt;em&gt;"light"&lt;/em&gt; pelo tamanho da matéria, mas mesmo assim
 faz uma breve revisão do conteúdo mínimo que precisa ser entendido antes
@@ -128,7 +191,13 @@ da prova!&lt;/p&gt;
 
 &lt;!-- coding: utf-8-unix --&gt;
 
-&lt;!-- End: --&gt;</summary><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Processo Penal II - Atualizado</title><link href="http://ibraimgm.github.io/direito/proc_penal2.html" rel="alternate"></link><updated>2015-11-15T00:00:00-02:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2015-11-15:direito/proc_penal2.html</id><summary type="html">&lt;p&gt;Foi atualizado o resumo de &lt;strong&gt;Processo Penal II&lt;/strong&gt;. Você
+&lt;!-- End: --&gt;</content><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Processo Penal II - Atualizado</title><link href="http://ibraimgm.github.io/direito/proc_penal2.html" rel="alternate"></link><published>2015-11-15T00:00:00-02:00</published><updated>2015-11-15T00:00:00-02:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2015-11-15:/direito/proc_penal2.html</id><summary type="html">&lt;p&gt;Foi atualizado o resumo de &lt;strong&gt;Processo Penal II&lt;/strong&gt;. Você
+pode conferir e baixar o arquivo na
+&lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;. Não se esqueça também de
+&lt;a href="http://ibraimgm.github.io/direito/pages/newsletter.html"&gt;fazer o cadastro na newsletter do blog&lt;/a&gt;
+para se manter atualizado!&lt;/p&gt;
+&lt;p&gt;Em relação à versão anterior, além de pequenas correções pontuais, foi
+adicionado o conteúdo referente …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Foi atualizado o resumo de &lt;strong&gt;Processo Penal II&lt;/strong&gt;. Você
 pode conferir e baixar o arquivo na
 &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;. Não se esqueça também de
 &lt;a href="http://ibraimgm.github.io/direito/pages/newsletter.html"&gt;fazer o cadastro na newsletter do blog&lt;/a&gt;
@@ -144,7 +213,13 @@ Sumaríssimo (JECrim) e das duas fases do Tribunal do Júri.&lt;/p&gt;
 
 &lt;!-- coding: utf-8-unix --&gt;
 
-&lt;!-- End: --&gt;</summary><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Introdução ao Direito do Trabalho - Atualizado</title><link href="http://ibraimgm.github.io/direito/intr_direito_trabalho2.html" rel="alternate"></link><updated>2015-11-07T00:00:00-02:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2015-11-07:direito/intr_direito_trabalho2.html</id><summary type="html">&lt;p&gt;Foi atualizado o resumo de &lt;strong&gt;Introdução ao Direito do Trabalho&lt;/strong&gt;. Você
+&lt;!-- End: --&gt;</content><category term="blog"></category><category term="resumos"></category></entry><entry><title>Resumo de Introdução ao Direito do Trabalho - Atualizado</title><link href="http://ibraimgm.github.io/direito/intr_direito_trabalho2.html" rel="alternate"></link><published>2015-11-07T00:00:00-02:00</published><updated>2015-11-07T00:00:00-02:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2015-11-07:/direito/intr_direito_trabalho2.html</id><summary type="html">&lt;p&gt;Foi atualizado o resumo de &lt;strong&gt;Introdução ao Direito do Trabalho&lt;/strong&gt;. Você
+pode conferir e baixar o arquivo na
+&lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;. Nãose esqueça também de
+&lt;a href="http://ibraimgm.github.io/direito/pages/newsletter.html"&gt;fazer o cadastro na newsletter do blog&lt;/a&gt;
+para se manter atualizado!&lt;/p&gt;
+&lt;p&gt;Em relação à versão anterior, além de pequenas correções pontuais, foi
+adicionada toda uma …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Foi atualizado o resumo de &lt;strong&gt;Introdução ao Direito do Trabalho&lt;/strong&gt;. Você
 pode conferir e baixar o arquivo na
 &lt;a href="pages/resumos.html"&gt;seção de resumos&lt;/a&gt;. Nãose esqueça também de
 &lt;a href="http://ibraimgm.github.io/direito/pages/newsletter.html"&gt;fazer o cadastro na newsletter do blog&lt;/a&gt;
@@ -159,7 +234,12 @@ prescrição dos direitos do trabalhador.&lt;/p&gt;
 
 &lt;!-- coding: utf-8-unix --&gt;
 
-&lt;!-- End: --&gt;</summary><category term="blog"></category><category term="resumos"></category></entry><entry><title>Bem vindo</title><link href="http://ibraimgm.github.io/direito/bem-vindo.html" rel="alternate"></link><updated>2015-11-02T00:00:00-02:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2015-11-02:direito/bem-vindo.html</id><summary type="html">&lt;p&gt;Seja bem vindo! Este é um blog sobre resumos, modelos, artigos, vídeos
+&lt;!-- End: --&gt;</content><category term="blog"></category><category term="resumos"></category></entry><entry><title>Bem vindo</title><link href="http://ibraimgm.github.io/direito/bem-vindo.html" rel="alternate"></link><published>2015-11-02T00:00:00-02:00</published><updated>2015-11-02T00:00:00-02:00</updated><author><name>Rafael Ibraim</name></author><id>tag:ibraimgm.github.io,2015-11-02:/direito/bem-vindo.html</id><summary type="html">&lt;p&gt;Seja bem vindo! Este é um blog sobre resumos, modelos, artigos, vídeos
+e demais conteúdo jurídico que me parece interessante.&lt;/p&gt;
+&lt;p&gt;O conteúdo principal (e provavelmente o motivo de você ter vindo aqui)
+são os &lt;a href="pages/resumos.html"&gt;resumos das matérias&lt;/a&gt;, que
+certamente ajudam a dar aquele reforço antes das provas, ou mesmo
+complementar …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Seja bem vindo! Este é um blog sobre resumos, modelos, artigos, vídeos
 e demais conteúdo jurídico que me parece interessante.&lt;/p&gt;
 &lt;p&gt;O conteúdo principal (e provavelmente o motivo de você ter vindo aqui)
 são os &lt;a href="pages/resumos.html"&gt;resumos das matérias&lt;/a&gt;, que
@@ -185,4 +265,4 @@ dúvida, sugestão, reclamação ou queira apenas dar um "oi"!&lt;/p&gt;
 
 &lt;!-- coding: utf-8-unix --&gt;
 
-&lt;!-- End: --&gt;</summary><category term="blog"></category><category term="avisos"></category></entry></feed>
+&lt;!-- End: --&gt;</content><category term="blog"></category><category term="avisos"></category></entry></feed>
