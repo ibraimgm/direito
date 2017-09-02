@@ -13,6 +13,7 @@ $(document).ready( function () {
       {"data":new Date('2014/06/08'), "versao":"1.3", "categoria":"Civil", "titulo":"Negócios Jurídicos", "url":"../files/resumos/negocios-juridicos.pdf"},
       {"data":new Date('2015/09/26'), "versao":"1.1", "categoria":"Civil", "titulo":"Responsabilidade Civil", "url":"../files/resumos/resp-civil.pdf"},
       {"data":new Date('2017/08/26'), "versao":"1.0", "categoria":"Civil", "titulo":"Direito do Consumidor", "url":"../files/resumos/direito-consumidor.pdf"},
+      {"data":new Date('2017/09/02'), "versao":"1.0", "categoria":"Civil", "titulo":"Direito de Propriedade", "url":"../files/resumos/direito-propriedade.pdf"},
 
       {"data":new Date('2016/06/12'), "versao":"1.1", "categoria":"Empresarial", "titulo":"Direito Empresarial I", "url":"../files/resumos/dir-empresarial-1.pdf"},
 
