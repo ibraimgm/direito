@@ -16,6 +16,7 @@ $(document).ready( function () {
       {"data":new Date('2017/10/14'), "versao":"1.1", "categoria":"Civil", "titulo":"Direito de Propriedade", "url":"../files/resumos/direito-propriedade.pdf"},
 
       {"data":new Date('2016/06/12'), "versao":"1.1", "categoria":"Empresarial", "titulo":"Direito Empresarial I", "url":"../files/resumos/dir-empresarial-1.pdf"},
+      {"data":new Date('2018/09/22'), "versao":"1.0", "categoria":"Empresarial", "titulo":"Falência e Recuperação Judicial", "url":"../files/resumos/falencia-rec-judicial.pdf"},
 
       {"data":new Date('2013/09/15'), "versao":"N/A", "categoria":"Outros", "titulo":"Direito Internacional Público", "url":"../files/resumos/direito-internacional.pdf"},
       {"data":new Date('2013/09/15'), "versao":"N.A", "categoria":"Outros", "titulo":"Introdução ao Direito", "url":"../files/resumos/introducao-direito.pdf"},
